@@ -1,0 +1,13 @@
+.line {
+    height: 6px;
+    width: 70px;
+    background-color: red;
+    margin: 8px auto;
+}
+
+body{
+    text-align: center;
+    background-color: black;
+    color: #FF073A;
+}
+ 
